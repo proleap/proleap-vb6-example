@@ -1,1 +1,2 @@
-# proleap-vb6example
+ProLeap Visual Basic 6.0 Example Repository
+===========================================
